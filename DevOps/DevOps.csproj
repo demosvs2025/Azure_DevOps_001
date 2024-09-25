@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="3_Repos\" />
+    <Folder Include="4_Pipelines\" />
+    <Folder Include="2_Boards\" />
+    <Folder Include="1_Options\" />
+  </ItemGroup>
+
+</Project>
